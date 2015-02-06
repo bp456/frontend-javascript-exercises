@@ -1,3 +1,5 @@
+
+
 - Complete the `sumNumbers` function. This function should:
     - return the sum of all numbers inside of the array that is passed to the function
     - if the array is empty, this function should return 0
